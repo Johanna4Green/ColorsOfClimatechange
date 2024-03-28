@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-hexagon-411509",
+  "private_key_id": "94b2cad59ed2fc9929506c5f8071251fd82c302d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDoyfItx+PevVNL\nSzv/YgCqFtzwmvYyEtO/Fk69ixibAX9kBhketC54XbX+hfArGepqNtwrZ+Akk8W8\nTKe6arIzPz+lpIs50iaOIX8ANA4TfImTvmqZ64sPWJ9pPEeJvYqrTNSCUrp7cjCx\nfMZkYfz/189mLg8/5kGv2+H9KaiFoLGxDYacmqmLRGdlUT4lroQWbgTd9DR/P47N\nkPujYXDwaYUrzBl+OQHOJqMSdwGMgqUSj41gKRpobyjZFnDPVt+ow1UsWvaIlSAW\nsd+ju7lVk6QGBDktDg8v2JSRy5aBJYMgJa+DXYa/Ut6Dv8ufuPPijlg9dSvMrexI\neo5RcDpzAgMBAAECggEAbuMTe39GKmng7XLPB521V1BAulP2hm+1cca8h0lk1SFn\nf0vwV1HY+Pkaoj1G5CEaKrIrOnnmqUXC4SlalFASxpqQROUWdNqIBxgpmP0y31Fp\nb3k66krrGMpMVSKjqRcioOqeJ94ken0weLtI/bQ3gd9ZKgEyvmt+Srjg82kOn2e9\n5SDIiqHfpANcKcXtyMkV60reLdn69+2WPlM0N6Kt9aeW749nmJbGhl0jCJqPWt1T\nPIsqS7dcZHdRvH/OdpGDAFoG0UfW89UZDQDkg9ChFA54vIOdL7Lx4plMktdfImWJ\nwTzmDZE/8bWK1X93LqKDhstuDJM1mMpSaL2eZ7u8cQKBgQD3d4GmBU+mI/SroEGn\nh5U8AL+fDnndO3OS2XZ9H3aNYnqj0uEAfnLmaHdESwFJ3Czkw2c+o7l7k/FZ2waL\njBPD4qWEy+v0WceNEcZvlea+mx1k0cAb7SPpggJom4VFtNNnCDUZfgXYLN5gHPTu\n06YP/P5Y++QDsa3uh4Dherg3FQKBgQDw0N73aMbnFI+twRMiceQ4H6V/FAP4ORUh\nXU1/CIK24DxrGsXf8NiZFWO34wQ5cLG+EDlsUN2zoK8Gk4KHetxtOKrmgc3JbCAL\n8QJztKKSi35kPtd6VG5TGLourvK0Xoc/QB3K3EOk53bu2m6WBuO4X+vE3odY+taz\nWeEyHe4NZwKBgC5efjSVmi8PXbEq/iJeDWCI417yX3NMyIMjrEgVtSkY4tH/mZl2\nGCGEQZTSWRN15hOXaakbFI5LUlX77GYJgUqbFVikvTmz+Og+BGi0NeBRQFi71Ltm\n2+vNKJZhTb+Z+mK77vcv3fh7r89inaKClgM47I/P4xGuIWEoksWtMQdhAoGBAL58\neeI6fxtKqFxI3VnhvSSn48EhlAJFJPG/XA2gLcV6mlAeXWdGnA57XOWYLT9CZVZy\nfvmu/a+Y6tnI1PdVuAatTIIJKz6oyLCpc8cSm4ZP0Sp6ive40Yvpg1xqBpGmNFVT\n4j0U/mzyqqFFJzSFPpwZQ+X2IBnCURKNhhSemC8BAoGBANgBm59J48MqxwwFCK1L\nTM1QUa66Y64BONyH9kk6FX80wVnuWt4tJSYedPAT1pcvWX3NtLQrDy9KXclmcfgt\ncGF/f7qDA+DsAAG9MiqShUpl3SnFOmr9JRz7I7ByoXuUYU70P3puaGm/qLSH85j4\nCIlbehJ8eNGBmb/lO5Kceolr\n-----END PRIVATE KEY-----\n",
+  "client_email": "social-media-analysis@valiant-hexagon-411509.iam.gserviceaccount.com",
+  "client_id": "109906712337561797667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/social-media-analysis%40valiant-hexagon-411509.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
